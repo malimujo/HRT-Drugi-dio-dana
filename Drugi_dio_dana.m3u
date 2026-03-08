@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/favicon.ico",HRT Drugi dio dana 06.03.2026 10:00
+#EXTINF:-1 tvg-logo="https://api.hrt.hr/media/68/dd/drugi-dio-dana-20251107150504.webp" group-title="Talk",HRT Drugi dio dana 06.03.2026 10:00
 https://api.hrt.hr/media/de/4f/20260305-drugi-dio-dana-37325170-20260306100030.mp3
