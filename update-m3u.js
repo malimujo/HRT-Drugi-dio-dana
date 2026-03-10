@@ -115,7 +115,7 @@ ${result.mp3}`;
   } catch (error) {
     console.error('❌', error.message);
     const fallbackContent = `#EXTM3U
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/favicon.ico",HRT Drugi dio dana Pet, 06.03. u 15:00
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/favicon.ico",HRT Drugi dio dana 06.03. u 15:00
 https://api.hrt.hr/media/28/da/20260306-drugi-dio-dana-37328738-20260306150000.mp3`;
     fs.writeFileSync('Drugi_dio_dana.m3u', fallbackContent);
     console.log('✅ Fallback Drugi_dio_dana.m3u spreman');
