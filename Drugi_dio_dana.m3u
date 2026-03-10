@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/favicon.ico",HRT Drugi dio dana 06.03. u 15:00
+https://api.hrt.hr/media/28/da/20260306-drugi-dio-dana-37328738-20260306150000.mp3
